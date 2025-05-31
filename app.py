@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 from PIL import Image
 from sklearn.cluster import KMeans
-# import tensorflow as tf  # 🔴 COMENTADO: No se usará la CNN en esta versión
+
 
 # ---------------------------
 # CONFIGURACIÓN INICIAL
